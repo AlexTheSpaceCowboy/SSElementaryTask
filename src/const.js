@@ -1,4 +1,4 @@
-var arrayOfTasksUrl = ["task_01/task_01.js", "task_02/task_02.js", "task_03/task_03.js", "task_04/task_04.js", "task_05/task_05.js", "task_06/task_06.js", "task_07/task_07.js", ];
+var arrayOfTasksUrl = ["src/task_01/task_01.js", "src/task_02/task_02.js", "src/task_03/task_03.js", "src/task_04/task_04.js", "src/task_05/task_05.js", "src/task_06/task_06.js", "src/task_07/task_07.js", ];
 
 var taskDescription = {
     task_01 : "Task 01:<br><br>function chessDeskCreate(chessDeskLenth, chessDeskWidth, chessDeskSymbol)<br><br>Creates a chess desk with the entered parameters, where:<br><br>chessDeskLenth - number of symbols shown horizontally;<br>chessDeskWidth - number of symbols shown vertically;<br>chessDeskSymbol - symbol that represents chess desk cells;",
